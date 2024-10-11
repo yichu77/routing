@@ -8,7 +8,7 @@ PKG_RELEASE:=3
 
 PKG_SOURCE:=$(PKG_NAME)-$(PKG_VERSION).tar.gz
 PKG_SOURCE_URL:=https://downloads.open-mesh.org/batman/releases/batman-adv-$(PKG_VERSION)
-PKG_HASH:=f7c6c53e59343c162642cb9b44f1016765d4bf513e039002be612b7a6c1ea36c
+PKG_HASH:=7692a6dee7a2f3f66732e9aec8c7164e0c1818167f3af063bff3fffbb0199643
 PKG_EXTMOD_SUBDIRS:=net/batman-adv
 
 PKG_MAINTAINER:=Simon Wunderlich <sw@simonwunderlich.de>
